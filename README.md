@@ -11,5 +11,5 @@ A data enthusiast, passionate about uncovering insights from data, making data-d
 - **Tools & Technologies:** Jupyter Notebook, Google Colab 
 
 ## 📬 Connect with Me
-[![LinkedIn]](https://www.linkedin.com/in/dimpal-bhorkar-7240aa214/)  
-[![Email](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=internet-explorer)](dimpalbhorkar47@gmail.com)  
+LinkedIn: [Dimpal Bhorkar](https://www.linkedin.com/in/dimpal-bhorkar-7240aa214/)
+[Email](dimpalbhorkar47@gmail.com)  
